@@ -10,6 +10,7 @@
 
     run: function () {
         var $this = this;
+        $this.monk=false;
         $this.flag_swipe=false;
          $this.CourseUrl;
          $this.usertype;
